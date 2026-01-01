@@ -1,1 +1,1 @@
-# rf-gp-rpi5
+# Comparison between Random Forrest and Gaussian Process Models to predict formation energy on set of 500 stable sodium alloys. All written and ran on a Raspberry Pi 5. While usefullness of model is relatively low due to high errors, the proof of concept highlights the potential and challenges within ML archetiures when applying them to material science problems. 
